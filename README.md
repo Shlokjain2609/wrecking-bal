@@ -1,1 +1,2 @@
-# wrecking-bal
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
